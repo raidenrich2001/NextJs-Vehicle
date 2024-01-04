@@ -1,0 +1,18 @@
+.barOverflow::-webkit-scrollbar-track {
+    /* border: 1px solid rgb(150, 150, 150); */
+    border-radius: 10px;
+    background-color: #f3f3f3;
+    /* padding-left: 10px; */
+  }
+  
+  .barOverflow::-webkit-scrollbar {
+    width: 7px;
+    height: 8px
+  }
+  
+  .barOverflow::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    box-shadow: inset 2px 2px 10px #ffffff4d;
+    background-color: #bbbbbb;
+    /* border: 1px solid #ffffff; */
+  }
